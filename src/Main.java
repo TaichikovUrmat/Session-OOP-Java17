@@ -49,5 +49,18 @@ public class Main {
         }
         System.out.println("minSalary = " + minSalary.salary);
 
+
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+        System.out.println("Amir");
+
     }
 }
